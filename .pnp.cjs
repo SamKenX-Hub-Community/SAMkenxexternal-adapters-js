@@ -9656,7 +9656,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["outdent", "npm:0.5.0"],\
             ["prettier", "npm:1.19.1"],\
             ["resolve-from", "npm:5.0.0"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -9671,7 +9671,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@changesets/get-dependents-graph", "npm:1.3.4"],\
             ["@changesets/types", "npm:5.2.0"],\
             ["@manypkg/get-packages", "npm:1.1.3"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -9707,7 +9707,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["outdent", "npm:0.5.0"],\
             ["p-limit", "npm:2.3.0"],\
             ["preferred-pm", "npm:3.0.3"],\
-            ["semver", "npm:5.7.1"],\
+            ["semver", "npm:5.7.2"],\
             ["spawndamnit", "npm:2.0.0"],\
             ["term-size", "npm:2.2.1"],\
             ["tty-table", "npm:2.8.13"]\
@@ -9764,7 +9764,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@manypkg/get-packages", "npm:1.1.3"],\
             ["chalk", "npm:2.4.2"],\
             ["fs-extra", "npm:7.0.1"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -19733,7 +19733,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["csproj2ts", "npm:1.1.0"],\
             ["es6-promise", "npm:4.2.8"],\
             ["lodash", "npm:4.17.21"],\
-            ["semver", "npm:5.7.1"],\
+            ["semver", "npm:5.7.2"],\
             ["xml2js", "npm:0.4.23"]\
           ],\
           "linkType": "HARD"\
@@ -20734,7 +20734,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nugget", "npm:2.2.0"],\
             ["path-exists", "npm:2.1.0"],\
             ["rc", "npm:1.2.8"],\
-            ["semver", "npm:5.7.1"],\
+            ["semver", "npm:5.7.2"],\
             ["sumchecker", "npm:1.3.1"]\
           ],\
           "linkType": "HARD"\
@@ -23422,7 +23422,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["lodash", "npm:4.17.21"],\
             ["ncp", "npm:0.5.1"],\
             ["rimraf", "npm:2.2.6"],\
-            ["semver", "npm:5.7.1"],\
+            ["semver", "npm:5.7.2"],\
             ["strip-bom", "npm:2.0.0"],\
             ["typescript", null]\
           ],\
@@ -30212,7 +30212,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["npmlog", "npm:4.1.2"],\
             ["rc", "npm:1.2.8"],\
             ["rimraf", "npm:2.7.1"],\
-            ["semver", "npm:5.7.1"],\
+            ["semver", "npm:5.7.2"],\
             ["tar", "npm:4.4.19"]\
           ],\
           "linkType": "HARD"\
@@ -30270,7 +30270,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["normalize-package-data", "npm:2.5.0"],\
             ["hosted-git-info", "npm:2.8.9"],\
             ["resolve", "patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=c3c19d"],\
-            ["semver", "npm:5.7.1"],\
+            ["semver", "npm:5.7.2"],\
             ["validate-npm-package-license", "npm:3.0.4"]\
           ],\
           "linkType": "HARD"\
@@ -33397,10 +33397,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["semver", [\
-        ["npm:5.7.1", {\
-          "packageLocation": "./.yarn/cache/semver-npm-5.7.1-40bcea106b-57fd0acfd0.zip/node_modules/semver/",\
+        ["npm:5.7.2", {\
+          "packageLocation": "./.yarn/cache/semver-npm-5.7.2-938ee91eaa-fb4ab5e0dd.zip/node_modules/semver/",\
           "packageDependencies": [\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -33953,7 +33953,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fs-extra", "npm:0.30.0"],\
             ["memorystream", "npm:0.3.1"],\
             ["require-from-string", "npm:1.2.1"],\
-            ["semver", "npm:5.7.1"],\
+            ["semver", "npm:5.7.2"],\
             ["yargs", "npm:4.8.1"]\
           ],\
           "linkType": "HARD"\
@@ -33969,7 +33969,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["js-sha3", "npm:0.8.0"],\
             ["memorystream", "npm:0.3.1"],\
             ["require-from-string", "npm:2.0.2"],\
-            ["semver", "npm:5.7.1"],\
+            ["semver", "npm:5.7.2"],\
             ["tmp", "npm:0.0.33"]\
           ],\
           "linkType": "HARD"\
