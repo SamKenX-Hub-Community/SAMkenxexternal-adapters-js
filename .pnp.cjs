@@ -5581,7 +5581,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:0.27.2"],\
+            ["axios", "npm:1.6.0"],\
             ["crypto-js", "npm:4.1.1"],\
             ["ethers", "npm:5.7.1"],\
             ["mathjs", "npm:11.5.1"],\
@@ -5817,7 +5817,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:0.27.2"],\
+            ["axios", "npm:1.6.0"],\
             ["fastify", "npm:3.29.5"],\
             ["nock", "npm:13.2.9"],\
             ["supertest", "npm:6.2.4"],\
@@ -6205,7 +6205,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@chainlink/ea-test-helpers", "workspace:packages/core/test-helpers"],\
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
-            ["axios", "npm:0.24.0"],\
+            ["axios", "npm:1.6.1"],\
             ["nock", "npm:13.2.9"],\
             ["tslib", "npm:2.4.1"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"]\
@@ -6276,7 +6276,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:1.3.4"],\
+            ["axios", "npm:1.6.1"],\
             ["nock", "npm:13.2.9"],\
             ["supertest", "npm:6.2.4"],\
             ["tslib", "npm:2.4.0"],\
@@ -6619,7 +6619,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:0.27.2"],\
+            ["axios", "npm:1.6.0"],\
             ["mock-socket", "npm:9.2.1"],\
             ["nock", "npm:13.2.9"],\
             ["supertest", "npm:6.2.4"],\
@@ -7068,7 +7068,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/uuid", "npm:8.3.4"],\
             ["@types/ws", "npm:8.5.4"],\
             ["ajv", "npm:8.11.0"],\
-            ["axios", "npm:0.24.0"],\
+            ["axios", "npm:1.6.1"],\
             ["decimal.js", "npm:10.4.3"],\
             ["fast-redact", "npm:3.1.2"],\
             ["fastify", "npm:3.29.5"],\
@@ -7145,7 +7145,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/swagger-jsdoc", "npm:6.0.1"],\
             ["@types/yaml", "npm:1.9.7"],\
             ["airtable", "npm:0.11.6"],\
-            ["axios", "npm:0.22.0"],\
+            ["axios", "npm:1.6.0"],\
             ["axios-mock-adapter", "virtual:490c3ad4216947ed7273aa36c5dd60e9ddcc5d0939f57049dd1de8af69c263d58ee7cc2cd0dcc6c42583caa88abb35b0f76f2389a9d34f0c5057a13853db6308#npm:1.20.0"],\
             ["axios-observable", "virtual:490c3ad4216947ed7273aa36c5dd60e9ddcc5d0939f57049dd1de8af69c263d58ee7cc2cd0dcc6c42583caa88abb35b0f76f2389a9d34f0c5057a13853db6308#npm:1.3.0"],\
             ["backoff-rxjs", "virtual:490c3ad4216947ed7273aa36c5dd60e9ddcc5d0939f57049dd1de8af69c263d58ee7cc2cd0dcc6c42583caa88abb35b0f76f2389a9d34f0c5057a13853db6308#npm:6.5.7"],\
@@ -7196,7 +7196,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:0.27.2"],\
+            ["axios", "npm:1.6.0"],\
             ["mock-socket", "npm:9.2.1"],\
             ["nock", "npm:13.2.9"],\
             ["supertest", "npm:6.2.4"],\
@@ -7679,7 +7679,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:0.27.2"],\
+            ["axios", "npm:1.6.0"],\
             ["mock-socket", "npm:9.2.1"],\
             ["nock", "npm:13.2.9"],\
             ["supertest", "npm:6.2.4"],\
@@ -7818,7 +7818,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
             ["@types/ws", "npm:8.5.4"],\
-            ["axios", "npm:0.27.2"],\
+            ["axios", "npm:1.6.0"],\
             ["crypto", "npm:1.0.1"],\
             ["mock-socket", "npm:9.2.1"],\
             ["nock", "npm:13.2.9"],\
@@ -7918,7 +7918,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:0.26.1"],\
+            ["axios", "npm:1.6.1"],\
             ["decimal.js", "npm:10.4.3"],\
             ["nock", "npm:13.2.9"],\
             ["supertest", "npm:6.2.4"],\
@@ -7938,7 +7938,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:0.24.0"],\
+            ["axios", "npm:1.6.1"],\
             ["intrinio-realtime", "npm:2.3.0"],\
             ["nock", "npm:13.2.9"],\
             ["supertest", "npm:6.2.4"],\
@@ -7957,7 +7957,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:0.24.0"],\
+            ["axios", "npm:1.6.1"],\
             ["mock-socket", "npm:9.1.5"],\
             ["nock", "npm:13.2.9"],\
             ["supertest", "npm:6.2.4"],\
@@ -8130,7 +8130,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:0.24.0"],\
+            ["axios", "npm:1.6.1"],\
             ["csv-parse", "npm:4.16.3"],\
             ["decimal.js", "npm:10.4.3"],\
             ["moment", "npm:2.29.4"],\
@@ -8240,7 +8240,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:0.24.0"],\
+            ["axios", "npm:1.6.1"],\
             ["nock", "npm:13.2.9"],\
             ["supertest", "npm:6.2.4"],\
             ["tslib", "npm:2.4.1"],\
@@ -8439,7 +8439,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@chainlink/oanda-adapter", "workspace:packages/sources/oanda"],\
             ["@chainlink/external-adapter-framework", "npm:0.29.8"],\
             ["@types/node", "npm:16.11.51"],\
-            ["axios", "npm:0.27.2"],\
+            ["axios", "npm:1.6.0"],\
             ["decimal.js", "npm:10.4.3"],\
             ["tslib", "npm:2.4.1"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"]\
@@ -8452,7 +8452,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/observation/",\
           "packageDependencies": [\
             ["@chainlink/observation", "workspace:packages/observation"],\
-            ["axios", "npm:0.24.0"],\
+            ["axios", "npm:1.6.1"],\
             ["tslib", "npm:2.4.1"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"]\
           ],\
@@ -8560,7 +8560,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/sinon", "npm:10.0.14"],\
-            ["axios", "npm:0.24.0"],\
+            ["axios", "npm:1.6.1"],\
             ["sinon", "npm:12.0.1"],\
             ["tslib", "npm:2.4.1"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"]\
@@ -9019,7 +9019,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.5.2"],\
             ["@types/node", "npm:16.11.51"],\
             ["@types/supertest", "npm:2.0.12"],\
-            ["axios", "npm:1.3.4"],\
+            ["axios", "npm:1.6.0"],\
             ["bignumber.js", "npm:9.1.1"],\
             ["ethers", "npm:5.5.1"],\
             ["nock", "npm:13.2.9"],\
@@ -17125,40 +17125,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/axios-npm-0.21.4-e278873748-44245f24ac.zip/node_modules/axios/",\
           "packageDependencies": [\
             ["axios", "npm:0.21.4"],\
-            ["follow-redirects", "virtual:39e5c1e79ea63134f0cf339f4463df92854aaf708a45210afd29a0b4b9f67f95b34a1abbcabaae6d0033ad99a1d5f690ab51ed8e5d3283b87ccbc3a9ab3ec05f#npm:1.15.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:0.22.0", {\
-          "packageLocation": "./.yarn/cache/axios-npm-0.22.0-ed558f7b05-83dc4d02e1.zip/node_modules/axios/",\
-          "packageDependencies": [\
-            ["axios", "npm:0.22.0"],\
-            ["follow-redirects", "virtual:39e5c1e79ea63134f0cf339f4463df92854aaf708a45210afd29a0b4b9f67f95b34a1abbcabaae6d0033ad99a1d5f690ab51ed8e5d3283b87ccbc3a9ab3ec05f#npm:1.15.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:0.24.0", {\
-          "packageLocation": "./.yarn/cache/axios-npm-0.24.0-39e5c1e79e-468cf496c0.zip/node_modules/axios/",\
-          "packageDependencies": [\
-            ["axios", "npm:0.24.0"],\
-            ["follow-redirects", "virtual:39e5c1e79ea63134f0cf339f4463df92854aaf708a45210afd29a0b4b9f67f95b34a1abbcabaae6d0033ad99a1d5f690ab51ed8e5d3283b87ccbc3a9ab3ec05f#npm:1.15.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:0.26.1", {\
-          "packageLocation": "./.yarn/cache/axios-npm-0.26.1-a6641ce4e3-d9eb58ff4b.zip/node_modules/axios/",\
-          "packageDependencies": [\
-            ["axios", "npm:0.26.1"],\
-            ["follow-redirects", "virtual:39e5c1e79ea63134f0cf339f4463df92854aaf708a45210afd29a0b4b9f67f95b34a1abbcabaae6d0033ad99a1d5f690ab51ed8e5d3283b87ccbc3a9ab3ec05f#npm:1.15.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:0.27.2", {\
-          "packageLocation": "./.yarn/cache/axios-npm-0.27.2-dbe3a48aea-38cb754046.zip/node_modules/axios/",\
-          "packageDependencies": [\
-            ["axios", "npm:0.27.2"],\
-            ["follow-redirects", "virtual:39e5c1e79ea63134f0cf339f4463df92854aaf708a45210afd29a0b4b9f67f95b34a1abbcabaae6d0033ad99a1d5f690ab51ed8e5d3283b87ccbc3a9ab3ec05f#npm:1.15.2"],\
-            ["form-data", "npm:4.0.0"]\
+            ["follow-redirects", "virtual:ffaff76449f02e83712a7d24e03c564489516739c78ebeffb0fbcdb3893ad9a0e48504f9acfa70fe6f16debe9c8dabde3679d63bf648278ea98a5ff38cf77a9e#npm:1.15.2"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -17166,7 +17133,27 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/axios-npm-1.3.4-01ea685178-7440edefcf.zip/node_modules/axios/",\
           "packageDependencies": [\
             ["axios", "npm:1.3.4"],\
-            ["follow-redirects", "virtual:39e5c1e79ea63134f0cf339f4463df92854aaf708a45210afd29a0b4b9f67f95b34a1abbcabaae6d0033ad99a1d5f690ab51ed8e5d3283b87ccbc3a9ab3ec05f#npm:1.15.2"],\
+            ["follow-redirects", "virtual:ffaff76449f02e83712a7d24e03c564489516739c78ebeffb0fbcdb3893ad9a0e48504f9acfa70fe6f16debe9c8dabde3679d63bf648278ea98a5ff38cf77a9e#npm:1.15.2"],\
+            ["form-data", "npm:4.0.0"],\
+            ["proxy-from-env", "npm:1.1.0"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:1.6.0", {\
+          "packageLocation": "./.yarn/cache/axios-npm-1.6.0-b0f6015a96-c7c9f2ae9e.zip/node_modules/axios/",\
+          "packageDependencies": [\
+            ["axios", "npm:1.6.0"],\
+            ["follow-redirects", "virtual:ffaff76449f02e83712a7d24e03c564489516739c78ebeffb0fbcdb3893ad9a0e48504f9acfa70fe6f16debe9c8dabde3679d63bf648278ea98a5ff38cf77a9e#npm:1.15.2"],\
+            ["form-data", "npm:4.0.0"],\
+            ["proxy-from-env", "npm:1.1.0"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:1.6.1", {\
+          "packageLocation": "./.yarn/cache/axios-npm-1.6.1-ffaff76449-573f03f59b.zip/node_modules/axios/",\
+          "packageDependencies": [\
+            ["axios", "npm:1.6.1"],\
+            ["follow-redirects", "virtual:ffaff76449f02e83712a7d24e03c564489516739c78ebeffb0fbcdb3893ad9a0e48504f9acfa70fe6f16debe9c8dabde3679d63bf648278ea98a5ff38cf77a9e#npm:1.15.2"],\
             ["form-data", "npm:4.0.0"],\
             ["proxy-from-env", "npm:1.1.0"]\
           ],\
@@ -17186,7 +17173,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["axios-mock-adapter", "virtual:490c3ad4216947ed7273aa36c5dd60e9ddcc5d0939f57049dd1de8af69c263d58ee7cc2cd0dcc6c42583caa88abb35b0f76f2389a9d34f0c5057a13853db6308#npm:1.20.0"],\
             ["@types/axios", null],\
-            ["axios", "npm:0.22.0"],\
+            ["axios", "npm:1.6.0"],\
             ["fast-deep-equal", "npm:3.1.3"],\
             ["is-blob", "npm:2.1.0"],\
             ["is-buffer", "npm:2.0.5"]\
@@ -17212,7 +17199,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["axios-observable", "virtual:490c3ad4216947ed7273aa36c5dd60e9ddcc5d0939f57049dd1de8af69c263d58ee7cc2cd0dcc6c42583caa88abb35b0f76f2389a9d34f0c5057a13853db6308#npm:1.3.0"],\
             ["@types/axios", null],\
             ["@types/rxjs", null],\
-            ["axios", "npm:0.22.0"],\
+            ["axios", "npm:1.6.0"],\
             ["rxjs", "npm:7.4.0"]\
           ],\
           "packagePeers": [\
@@ -22559,10 +22546,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:39e5c1e79ea63134f0cf339f4463df92854aaf708a45210afd29a0b4b9f67f95b34a1abbcabaae6d0033ad99a1d5f690ab51ed8e5d3283b87ccbc3a9ab3ec05f#npm:1.15.2", {\
-          "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-2c858e005e/0/cache/follow-redirects-npm-1.15.2-1ec1dd82be-faa66059b6.zip/node_modules/follow-redirects/",\
+        ["virtual:ffaff76449f02e83712a7d24e03c564489516739c78ebeffb0fbcdb3893ad9a0e48504f9acfa70fe6f16debe9c8dabde3679d63bf648278ea98a5ff38cf77a9e#npm:1.15.2", {\
+          "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-c2d5794c26/0/cache/follow-redirects-npm-1.15.2-1ec1dd82be-faa66059b6.zip/node_modules/follow-redirects/",\
           "packageDependencies": [\
-            ["follow-redirects", "virtual:39e5c1e79ea63134f0cf339f4463df92854aaf708a45210afd29a0b4b9f67f95b34a1abbcabaae6d0033ad99a1d5f690ab51ed8e5d3283b87ccbc3a9ab3ec05f#npm:1.15.2"],\
+            ["follow-redirects", "virtual:ffaff76449f02e83712a7d24e03c564489516739c78ebeffb0fbcdb3893ad9a0e48504f9acfa70fe6f16debe9c8dabde3679d63bf648278ea98a5ff38cf77a9e#npm:1.15.2"],\
             ["@types/debug", null],\
             ["debug", "virtual:1ca322a4d66c7a41fb1e112226317c5a21fb69ea7d45c9d09b748ed5b9f833c84750b4efbc0ff288a6bf112667942c8baf99cbcdf6d047bbf8cc131896c14fd5#npm:4.3.4"]\
           ],\
@@ -33964,7 +33951,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["solc", "npm:0.7.3"],\
             ["command-exists", "npm:1.2.9"],\
             ["commander", "npm:3.0.2"],\
-            ["follow-redirects", "virtual:39e5c1e79ea63134f0cf339f4463df92854aaf708a45210afd29a0b4b9f67f95b34a1abbcabaae6d0033ad99a1d5f690ab51ed8e5d3283b87ccbc3a9ab3ec05f#npm:1.15.2"],\
+            ["follow-redirects", "virtual:ffaff76449f02e83712a7d24e03c564489516739c78ebeffb0fbcdb3893ad9a0e48504f9acfa70fe6f16debe9c8dabde3679d63bf648278ea98a5ff38cf77a9e#npm:1.15.2"],\
             ["fs-extra", "npm:0.30.0"],\
             ["js-sha3", "npm:0.8.0"],\
             ["memorystream", "npm:0.3.1"],\
