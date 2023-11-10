@@ -38,7 +38,7 @@
   "dependencies": {
     "@chainlink/ea-bootstrap": "workspace:*",
     "@chainlink/ea-test-helpers": "workspace:*",
-    "axios": "^0.24.0",
+    "axios": "^1.6.0",
     "intrinio-realtime": "^2.3.0",
     "tslib": "^2.3.1"
   }
